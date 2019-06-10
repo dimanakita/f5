@@ -1,0 +1,20 @@
+{
+    "name": "keeping-up-with-the-kardashians-season-16-episode-9/e-channel",
+    "description": "WATCH ONLINE Keeping Up with the Kardashians Season 16 Episode 9 Full Free Putlocker S16E09 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Keeping Up with the Kardashians Season 16 Episode 9 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/Oy6vRcKbNN",
+            "homepage": "https://t.co/Oy6vRcKbNN",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
